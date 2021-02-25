@@ -1,0 +1,7 @@
+{
+        "name":"Test Cog",
+        "version":"1",
+        "function":"test",
+        "variables":"x",
+        "depends":"testlib"
+}

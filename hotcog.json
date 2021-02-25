@@ -1,0 +1,7 @@
+{
+        "name":"Hot Cog",
+        "version":"1",
+        "function":"hot",
+        "variables":"x",
+        "depends":"hotlib"
+}

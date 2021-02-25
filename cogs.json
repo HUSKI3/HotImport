@@ -1,0 +1,6 @@
+{
+	"name":"Cogs",
+	"version":"0.0.1",
+	"locations":["cogs/test.json"],
+	"status":"rolling"
+}
