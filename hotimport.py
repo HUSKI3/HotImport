@@ -4,14 +4,6 @@ import os
 import json
 import re
 
-try:
-  import merrors
-  merrors=merrors.merror()
-  mer = True
-except:
-  print("For better error checking and functionability please install merrors")
-  mer = False
-
 class ezconfig:
 
   def __init__(self):
